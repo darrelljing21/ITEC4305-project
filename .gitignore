@@ -1,0 +1,9 @@
+# Ignore large raw datasets
+data/raw/*100K*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
