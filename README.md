@@ -15,4 +15,4 @@ This project uses the *Apartment for Rent Classified* dataset from the UCI Machi
 Download the full dataset from:
 https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified
 
-After downloading, place the file in:
+After downloading, place the file in floder: data
